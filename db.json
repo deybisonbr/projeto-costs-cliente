@@ -1,0 +1,80 @@
+{
+  "projects": [
+    {
+      "name": "Projeto Atualizado",
+      "budget": "1100",
+      "category": {
+        "id": "1",
+        "name": "Infra"
+      },
+      "cost": 200,
+      "services": [
+        {
+          "name": "teste",
+          "cost": "100",
+          "description": "asdsadsa",
+          "id": "dcb9262b-69f8-434b-92f5-a9c7accad159"
+        },
+        {
+          "name": "teste",
+          "cost": "100",
+          "description": "asdsadsa",
+          "id": "dcb9262b-69f8-434b-92f5-a9c7accad159"
+        }
+      ],
+      "id": 1
+    },
+    {
+      "name": "Loja  Online",
+      "budget": "20000",
+      "category": {
+        "id": "2",
+        "name": "Desenvolvimento"
+      },
+      "cost": 1900,
+      "services": [
+        {
+          "name": "carrinho de compras",
+          "cost": "200",
+          "description": "Carrinho para adicionar os produtos",
+          "id": "e7cd9f00-b318-47f6-957a-0712deddea8e"
+        },
+        {
+          "name": "carrinho de compras",
+          "cost": "200",
+          "description": "Carrinho para adicionar os produtos",
+          "id": "e7cd9f00-b318-47f6-957a-0712deddea8e"
+        },
+        {
+          "name": "novo serviço",
+          "cost": "1500",
+          "description": "teste",
+          "id": "32a34c3b-3c3d-4c04-b336-547f87226540"
+        }
+      ],
+      "id": 2
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "Infra"
+    },
+    {
+      "id": 2,
+      "name": "Desenvolvimento"
+    },
+    {
+      "id": 3,
+      "name": "Design"
+    },
+    {
+      "id": 4,
+      "name": "Planejamento"
+    },
+    {
+      "id": 5,
+      "name": "Produção"
+    }
+  ]
+}
