@@ -12,3 +12,7 @@ Pacotes para instalação:
  "uuid": "^8.3.2",
  "web-vitals": "^2.1.4"
  
+ Comando para iniciar Front e BackEnd:
+ - npm run backend
+ - npm start
+ 
